@@ -12,7 +12,6 @@ I help startups refine their developer docs for clarity and usability. Services 
 
 ## Background 
 
-- Based in Johannesburg, South Africa
 - 4+ years editing developer-focused content and training technical writers
 - 15+ years editing experience across multiple content types
 
