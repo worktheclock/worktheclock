@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Sarah
 
-<!--
-**worktheclock/worktheclock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical editor specializing in developer documentation.
 
-Here are some ideas to get you started:
+## What I do 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help startups refine their developer docs for clarity and usability. Services include:
+
+- Editing existing documentation for structure, consistency, and readability
+- Creating style guides and documentation standards
+- Training teams on technical writing best practices
+
+## Background 
+
+- Based in Johannesburg, South Africa
+- 4+ years editing developer-focused content and training technical writers
+- 15+ years editing experience across multiple content types
+
+## Get in touch
+
+📫 [Email me](mailto:sarah@worktheclock.co.za)
